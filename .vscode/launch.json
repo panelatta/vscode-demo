@@ -1,0 +1,23 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/target/debug/${workspaceFolderBasename}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "sourceFileMap": {
+                "/rustc/9fda7c2237db910e41d6a712e9a2139b352e558b/src": "C:/Users/zhaohy/.rustup/toolchains/stable-x86_64-pc-windows-gnu/lib/rustlib/src/rust/src",
+            },
+            "preLaunchTask": "cargo build",
+        }
+    ]
+}
