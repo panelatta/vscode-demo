@@ -15,7 +15,7 @@
             "environment": [],
             "externalConsole": true,
             "sourceFileMap": {
-                "/rustc/9fda7c2237db910e41d6a712e9a2139b352e558b/src": "C:/Users/zhaohy/.rustup/toolchains/stable-x86_64-pc-windows-gnu/lib/rustlib/src/rust/src",
+                "/rustc/fc50f328b0353b285421b8ff5d4100966387a997/src": "C:/Users/zhaohy/.rustup/toolchains/stable-x86_64-pc-windows-gnu/lib/rustlib/src/rust/src",
             },
             "preLaunchTask": "cargo build",
         }
